@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.gmail.dimabah</groupId>
-    <artifactId>JavaProSecurityExemple</artifactId>
+    <artifactId>JavaProSecurityExample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>JavaProSecurityExemple</name>
     <description>JavaProSecurityExemple</description>
